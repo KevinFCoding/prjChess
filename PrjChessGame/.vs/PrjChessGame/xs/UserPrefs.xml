@@ -1,11 +1,16 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="PrjChessGame/Class1.cs">
+﻿<Properties StartupConfiguration="{F7F59978-4FC6-47C5-87DC-BB88D3E407DF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProgramChess/Program.cs">
     <Files>
-      <File FileName="PrjChessGame/Class1.cs" Line="7" Column="6" />
+      <File FileName="PrjChessGame/Perso.cs" Line="5" Column="23" />
+      <File FileName="PrjChessGame/Rule.cs" Line="1" Column="1" />
+      <File FileName="PrjChessGame/Plateau.cs" Line="1" Column="1" />
+      <File FileName="PrjChessGame/Pion.cs" Line="1" Column="1" />
+      <File FileName="ProgramChess/Program.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.PrjChessGame FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ProgramChess FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

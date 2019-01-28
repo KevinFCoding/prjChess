@@ -2,7 +2,8 @@
 
 namespace PrjChessGame
 {
-    public class Class1
+    public class Perso
     {
+
     }
 }
